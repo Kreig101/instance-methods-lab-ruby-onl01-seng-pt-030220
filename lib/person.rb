@@ -1,4 +1,5 @@
 class Person 
   
-  def ini
+  def iniialize
+    
 end
