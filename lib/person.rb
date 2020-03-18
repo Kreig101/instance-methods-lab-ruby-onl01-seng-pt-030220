@@ -1,5 +1,7 @@
 class Person 
   
-  def iniialize
+  def talk 
+    puts "Hello World!"
+  end
     
 end
